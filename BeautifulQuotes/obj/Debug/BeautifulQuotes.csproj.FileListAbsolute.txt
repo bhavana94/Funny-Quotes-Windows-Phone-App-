@@ -1,0 +1,526 @@
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ApplicationIcon.png
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Background.png
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\App.g.cs
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\MainPage.g.cs
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.xap
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\Favourites.g.cs
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+c:\users\akshay jain\documents\visual studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\XapCacheFile.xml
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\Settings.g.cs
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ApplicationIcon.png
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Background.png
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.xap
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\App.g.cs
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\MainPage.g.cs
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\Favourites.g.cs
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\Settings.g.cs
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\XapCacheFile.xml
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Kanika\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.csprojResolveAssemblyReference.cache
+C:\Users\Akshay Jain\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.csprojResolveAssemblyReference.cache
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ApplicationIcon.png
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Background.png
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.xap
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.xml
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.xml
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.csprojResolveAssemblyReference.cache
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\obj\Debug\App.g.cs
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\obj\Debug\MainPage.g.cs
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\Favourites.g.cs
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\Settings.g.cs
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+E:\Windows Phone Applications Data\BeautifulQuotes\BeautifulQuotes\obj\Debug\XapCacheFile.xml
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ApplicationIcon.png
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Background.png
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.xap
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\App.g.cs
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\MainPage.g.cs
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\XapCacheFile.xml
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\About.g.cs
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.csprojResolveAssemblyReference.cache
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ApplicationIcon.png
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Background.png
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.xap
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.csprojResolveAssemblyReference.cache
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\App.g.cs
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\About.g.cs
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\MainPage.g.cs
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+C:\Users\Akshay\Documents\Visual Studio 2012\Projects\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\XapCacheFile.xml
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ApplicationIcon.png
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Background.png
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.xap
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.xml
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.csprojResolveAssemblyReference.cache
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\App.g.cs
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\About.g.cs
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\MainPage.g.cs
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+D:\Applications\Windows Phone Applications Data\Quotes Garden\BeautifulQuotes\BeautifulQuotes\obj\Debug\XapCacheFile.xml
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\ApplicationIcon.png
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\Background.png
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\Properties\WMAppManifest.xml
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes_Debug_AnyCPU.xap
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\obj\Debug\App.g.cs
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\obj\Debug\Pages\About.g.cs
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\obj\Debug\MainPage.g.cs
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+D:\Applications\Windows Phone Applications Data\Quotes Garden\Friendship Quotes\BeautifulQuotes\obj\Debug\XapCacheFile.xml
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\ApplicationIcon.png
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\Background.png
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes_Debug_AnyCPU.xap
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.csprojResolveAssemblyReference.cache
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\obj\Debug\App.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\obj\Debug\Pages\About.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\obj\Debug\MainPage.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Friendship Quotes\BeautifulQuotes\obj\Debug\XapCacheFile.xml
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\ApplicationIcon.png
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\Background.png
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes_Debug_AnyCPU.xap
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.csprojResolveAssemblyReference.cache
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\obj\Debug\App.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\obj\Debug\Pages\About.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\obj\Debug\MainPage.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes\BeautifulQuotes\obj\Debug\XapCacheFile.xml
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\ApplicationIcon.png
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\Background.png
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\BeautifulQuotes_Debug_AnyCPU.xap
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\obj\Debug\BeautifulQuotes.csprojResolveAssemblyReference.cache
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\obj\Debug\App.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\obj\Debug\Pages\About.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\obj\Debug\MainPage.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy\BeautifulQuotes\obj\Debug\XapCacheFile.xml
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\ApplicationIcon.png
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\Background.png
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\obj\Debug\App.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\obj\Debug\Pages\About.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\obj\Debug\MainPage.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\obj\Debug\XapCacheFile.xml
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Popular Quotes - Copy - Copy\BeautifulQuotes\Bin\Debug\NewYearQuotes.xap
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\ApplicationIcon.png
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\Background.png
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\ValentineQuotes.xap
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\obj\Debug\BeautifulQuotes.csprojResolveAssemblyReference.cache
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\obj\Debug\App.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\obj\Debug\Pages\About.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\obj\Debug\MainPage.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\VALENTINE QUOTES\BeautifulQuotes\obj\Debug\XapCacheFile.xml
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\Jokerman-Regular.ttf
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\BeautifulQuotes.pdb
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\AppManifest.xaml
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\FunnyQuotes.xap
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.csprojResolveAssemblyReference.cache
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\obj\Debug\App.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\obj\Debug\Pages\About.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\obj\Debug\MainPage.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\obj\Debug\Pages\Quotes.g.cs
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.g.resources
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.dll
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\obj\Debug\BeautifulQuotes.pdb
+C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\funny quotes\BeautifulQuotes\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,121 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="BeautifulQuotes.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    shell:SystemTray.IsVisible="False">
+
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn"/>
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+    
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush ImageSource="/funny wall.png" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Foreground="White" x:Name="ApplicationTitle" Text="FUNNY QUOTES" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Foreground="White" x:Name="PageTitle" Text="about" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <StackPanel>
+                <TextBlock 
+                    Text="funny quotes" 
+                    Margin="12,0,12,0" 
+                    Foreground="White"
+                    FontSize="{StaticResource PhoneFontSizeLarge}" 
+                    FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+                <TextBlock 
+                    Text="1.0.0.0" 
+                    Margin="12,0,12,0"
+                    Foreground="White"
+                    FontSize="{StaticResource PhoneFontSizeNormal}"/>
+            </StackPanel>
+
+            <TextBlock 
+                Grid.Row="1" 
+                Text="Collection of a Funny quotes for our true friends."
+                Margin="12,24,12,24" 
+                TextWrapping="Wrap" 
+                Foreground="Yellow"
+                FontSize="{StaticResource PhoneFontSizeNormal}" />
+            <HyperlinkButton 
+                Grid.Row="3"
+                Content="rate this app" 
+                Margin="0,12,0,0" 
+                HorizontalAlignment="Left" 
+                Foreground="White"
+                Click="HyperlinkButton_Click_1"
+                FontSize="{StaticResource PhoneFontSizeNormal}" />
+            <HyperlinkButton 
+                Grid.Row="4"
+                Content="more applications" 
+                Margin="0,12,0,0" 
+                HorizontalAlignment="Left" 
+                Foreground="White"
+                Click="HyperlinkButton_Click_2"
+                FontSize="{StaticResource PhoneFontSizeNormal}" />
+            
+            <StackPanel Grid.Row="5" Margin="12,0,12,50" VerticalAlignment="Bottom">
+                <Image 
+                    Source="Images/CompanyLogo.png" 
+                    Stretch="None" 
+                    HorizontalAlignment="Left" />
+                <TextBlock 
+                    Text="Created By" 
+                    Margin="0,12,0,0"
+                    Foreground="Yellow"
+                    FontSize="{StaticResource PhoneFontSizeNormal}"
+                    FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+                <TextBlock 
+                   Text="BHAVANA"
+                    Foreground="Yellow"
+                    FontSize="{StaticResource PhoneFontSizeNormal}"
+                FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>
